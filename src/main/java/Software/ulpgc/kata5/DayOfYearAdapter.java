@@ -2,7 +2,7 @@ package Software.ulpgc.kata5;
 
 public class DayOfYearAdapter {
     private static final int[] daysInMonth = {
-    31, 20, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+    31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
     public static String converDayTodDate(int dayOfyear){
         int month = 0;
