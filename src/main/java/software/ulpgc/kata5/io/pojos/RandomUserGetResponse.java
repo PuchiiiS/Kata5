@@ -1,3 +1,5 @@
+package software.ulpgc.kata5.io.pojos;
+
 import java.util.List;
 
 public class RandomUserGetResponse {
